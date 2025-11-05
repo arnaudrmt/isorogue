@@ -1,0 +1,9 @@
+name: IsoRogue
+main: fr.arnaud.isorogue.IsoRogue
+version: 1.0
+author: Arnaud
+api-version: 1.13
+commands:
+  rogue:
+    description: Main command for the IsoRogue plugin.
+    usage: /<command> [start|stop]
